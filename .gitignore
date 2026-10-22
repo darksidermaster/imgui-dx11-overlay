@@ -1,0 +1,22 @@
+# Build
+build/
+out/
+cmake-build-*/
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+
+# Artefatos
+*.dll
+*.exe
+*.lib
+*.exp
+*.pdb
+*.obj
+*.ilk
